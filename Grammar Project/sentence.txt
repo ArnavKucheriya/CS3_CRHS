@@ -1,0 +1,10 @@
+<sentence>::=<nounp> <verbp>
+<nounp>::=<det> <adjs> <noun>|<propnoun>
+<propnoun>::=Hadi|Jazmin|Ali|Spot|Fred|Elmo
+<adjs>::=<adj>|<adj> <adjs>
+<adj>::=big|green|wonderful|faulty|subliminal|pretentious
+<det>::=the|a
+<noun>::=dog|cat|man|university|father|mother|child|television
+<verbp>::=<transverb> <nounp>|<intransverb>
+<transverb>::=taught|honored|found|helped
+<intransverb>::=died|collapsed|laughed|wept
