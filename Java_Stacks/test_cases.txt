@@ -1,0 +1,71 @@
+﻿import org.junit.jupiter.api.Test;
+
+
+import static org.junit.jupiter.api.Assertions.*;
+
+
+class PostFixTest {
+    PostFix test = new PostFix();
+
+
+    @Test
+    void labTests() {
+        test.setExpression("2 7 + 1 2 + +");
+        test.solve();
+        assertEquals("2 7 + 1 2 + + = 12.0", test.toString());
+
+
+        test.setExpression("1 2 3 4 + + +");
+        test.solve();
+        assertEquals("1 2 3 4 + + + = 10.0", test.toString());
+
+
+        test.setExpression("9 3 * 8 / 4 +");
+        test.solve();
+        assertEquals("9 3 * 8 / 4 + = 7.375", test.toString());
+
+
+        test.setExpression("3 3 + 7 * 9 2 / +");
+        test.solve();
+        assertEquals("3 3 + 7 * 9 2 / + = 46.5", test.toString());
+
+
+        test.setExpression("9 3 / 2 * 7 9 * + 4 -");
+        test.solve();
+        assertEquals("9 3 / 2 * 7 9 * + 4 - = 65.0", test.toString());
+
+
+        test.setExpression("5 5 + 2 * 4 / 9 +");
+        test.solve();
+        assertEquals("5 5 + 2 * 4 / 9 + = 14.0", test.toString());
+
+
+    }
+
+
+    @Test
+    void argumentException() {
+        test.setExpression("5 P +");
+        assertThrows(IllegalArgumentException.class, () -> test.solve());
+
+
+        test.setExpression("5 5 S");
+        assertThrows(IllegalArgumentException.class, () -> test.solve());
+
+
+        test.setExpression("5 8 + 5 M S");
+        assertThrows(IllegalArgumentException.class, () -> test.solve());
+
+
+        test.setExpression("5 8 / 9 R");
+        assertThrows(IllegalArgumentException.class, () -> test.solve());
+
+
+        test.setExpression("8 8 I R");
+        assertThrows(IllegalArgumentException.class, () -> test.solve());
+
+
+        test.setExpression("R T O P");
+        assertThrows(IllegalArgumentException.class, () -> test.solve());
+    }
+}
