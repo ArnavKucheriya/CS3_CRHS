@@ -1,0 +1,12 @@
+<sentence>::=<nounp> <verbp>
+<nounp>::=<det> <adjs> <noun>|<propnoun>
+<propnoun>::=John|Jane|Sally|Spot|Fred|Elmo
+<adjs>::=<adj>|<adj> <adjs>
+<adj>::=big|green|wonderful|faulty
+<adj>::=subliminal|pretentious
+<det>::=the|a
+<noun>::=dog|cat|man|university
+<noun>::=father|mother|child|television
+<verbp>::=<transverb> <nounp>|<intransverb>
+<transverb>::=hit|honored|kissed|helped
+<intransverb>::=died|collapsed|laughed|wept

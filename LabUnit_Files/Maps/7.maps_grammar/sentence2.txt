@@ -1,0 +1,10 @@
+ADJECTIVE::=     huge|tiny |  blue | super|   buggy|   terrible  | boring |hungry|furious|smelly
+PROPERNOUN::=Allison|Jamie|Janette|Charlie|Alex|Erik|Tanner|Grace|Paul|Catriona|Dane|Sara|Sean|David|Shurui|Eric|Tyler|Brian|Shiny|Peter|Galen|Martin|Cody|Nathan|Zack
+TRANSITIVEVERB::=kicked|  rebooted|destroyed|  built | ate
+DETERMINANT::=the | a
+NOUN::=dog|cat|girl|store|second cousin|great grandpa|child|television  |homework | Java program
+VERBPHRASE::=            TRANSITIVEVERB NOUNPHRASE|  INTRANSITIVEVERB
+SENTENCE::=     NOUNPHRASE     VERBPHRASE
+ADJPHRASE::= ADJECTIVE   |  ADJECTIVE ADJPHRASE
+INTRANSITIVEVERB::=  died| collapsed|  laughed | wept   |graded
+NOUNPHRASE::=DETERMINANT ADJPHRASE NOUN|PROPERNOUN

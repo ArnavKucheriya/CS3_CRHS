@@ -1,0 +1,5 @@
+<tdecl> ::= <type> <varlist> ;
+<varlist> ::= <var> | <varlist> , <var>
+<var>     ::= X | Y | Z
+<type>    ::= static <basictype> | <basictype>
+<basictype>    ::= int | boolean | String
