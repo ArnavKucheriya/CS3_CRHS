@@ -25,7 +25,7 @@ Stacks Image Enhancer Project -> https://github.com/ArnavKucheriya/CS3_CRHS/tree
 
 LiteraryWorks Project -> https://github.com/ArnavKucheriya/CS3_CRHS/tree/main/LiteraryWorks 
  
- -------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
  
 Array List Labs -> https://github.com/ArnavKucheriya/CS3_CRHS/tree/main/Java_ArrayList 
 
@@ -40,6 +40,8 @@ Recursions labs -> https://github.com/ArnavKucheriya/CS3_CRHS/tree/main/Java_Rec
 Sets labs -> https://github.com/ArnavKucheriya/CS3_CRHS/tree/main/Java_Sets 
 
 Stacks labs -> https://github.com/ArnavKucheriya/CS3_CRHS/tree/main/Java_Stacks 
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Arnav Kucheriya GitHub -> https://github.com/ArnavKucheriya
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
