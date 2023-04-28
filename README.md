@@ -24,6 +24,8 @@ Guitar Hero Project -> https://github.com/ArnavKucheriya/CS3_CRHS/tree/main/Guit
 Stacks Image Enhancer Project -> https://github.com/ArnavKucheriya/CS3_CRHS/tree/main/Stack_Image_Enhancer/src 
 
 LiteraryWorks Project -> https://github.com/ArnavKucheriya/CS3_CRHS/tree/main/LiteraryWorks/src 
+
+Percolation (Princeton) -> https://github.com/ArnavKucheriya/CS3_CRHS/tree/main/Percolation/src
  
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
  
