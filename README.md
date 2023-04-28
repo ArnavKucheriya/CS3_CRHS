@@ -28,6 +28,8 @@ LiteraryWorks Project -> https://github.com/ArnavKucheriya/CS3_CRHS/tree/main/Li
 Percolation (Princeton) -> https://github.com/ArnavKucheriya/CS3_CRHS/tree/main/Percolation/src
 
 Graphs (UCSD) -> https://github.com/ArnavKucheriya/CS3_CRHS/tree/main/UCSD_Graphs/src
+
+Primms_Connecting Points -> https://github.com/ArnavKucheriya/CS3_CRHS/tree/main/Prims_ConnectingPoints/src
  
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
  
