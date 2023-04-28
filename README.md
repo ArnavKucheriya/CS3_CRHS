@@ -26,6 +26,8 @@ Stacks Image Enhancer Project -> https://github.com/ArnavKucheriya/CS3_CRHS/tree
 LiteraryWorks Project -> https://github.com/ArnavKucheriya/CS3_CRHS/tree/main/LiteraryWorks/src 
 
 Percolation (Princeton) -> https://github.com/ArnavKucheriya/CS3_CRHS/tree/main/Percolation/src
+
+Graphs (UCSD) -> https://github.com/ArnavKucheriya/CS3_CRHS/tree/main/UCSD_Graphs/src
  
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
  
