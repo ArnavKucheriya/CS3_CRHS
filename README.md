@@ -11,7 +11,7 @@ Unit and Project Files -> https://github.com/ArnavKucheriya/CS3_CRHS/tree/main/L
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Assassin Project -> https://github.com/ArnavKucheriya/CS3_CRHS/tree/main/Assassin 
+Assassin Project -> https://github.com/ArnavKucheriya/CS3_CRHS/tree/main/Assassin/src 
 
 Evil Hangman Project -> https://github.com/ArnavKucheriya/CS3_CRHS/tree/main/EvilHangman 
 
