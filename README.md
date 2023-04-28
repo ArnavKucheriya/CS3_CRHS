@@ -13,33 +13,33 @@ Unit and Project Files -> https://github.com/ArnavKucheriya/CS3_CRHS/tree/main/L
 
 Assassin Project -> https://github.com/ArnavKucheriya/CS3_CRHS/tree/main/Assassin/src 
 
-Evil Hangman Project -> https://github.com/ArnavKucheriya/CS3_CRHS/tree/main/EvilHangman 
+Evil Hangman Project -> https://github.com/ArnavKucheriya/CS3_CRHS/tree/main/EvilHangman/src 
 
-Fractals Project -> https://github.com/ArnavKucheriya/CS3_CRHS/tree/main/Fractals 
+Fractals Project -> https://github.com/ArnavKucheriya/CS3_CRHS/tree/main/Fractals/src 
 
-Grammar Project -> https://github.com/ArnavKucheriya/CS3_CRHS/tree/main/Grammar%20Project 
+Grammar Project -> https://github.com/ArnavKucheriya/CS3_CRHS/tree/main/Grammar%20Project/src 
 
-Guitar Hero Project -> https://github.com/ArnavKucheriya/CS3_CRHS/tree/main/GuitarHero 
+Guitar Hero Project -> https://github.com/ArnavKucheriya/CS3_CRHS/tree/main/GuitarHero/src 
 
-Stacks Image Enhancer Project -> https://github.com/ArnavKucheriya/CS3_CRHS/tree/main/Stack_Image_Enhancer 
+Stacks Image Enhancer Project -> https://github.com/ArnavKucheriya/CS3_CRHS/tree/main/Stack_Image_Enhancer/src 
 
-LiteraryWorks Project -> https://github.com/ArnavKucheriya/CS3_CRHS/tree/main/LiteraryWorks 
+LiteraryWorks Project -> https://github.com/ArnavKucheriya/CS3_CRHS/tree/main/LiteraryWorks/src 
  
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
  
-Array List Labs -> https://github.com/ArnavKucheriya/CS3_CRHS/tree/main/Java_ArrayList 
+Array List Labs -> https://github.com/ArnavKucheriya/CS3_CRHS/tree/main/Java_ArrayList/src 
 
-DivideConquer Labs -> https://github.com/ArnavKucheriya/CS3_CRHS/tree/main/Java_DividenConqueror 
+DivideConquer Labs -> https://github.com/ArnavKucheriya/CS3_CRHS/tree/main/Java_DividenConqueror/src 
 
-Linked List labs -> https://github.com/ArnavKucheriya/CS3_CRHS/tree/main/Java_LinkedList 
+Linked List labs -> https://github.com/ArnavKucheriya/CS3_CRHS/tree/main/Java_LinkedList/src 
 
-Number System labs -> https://github.com/ArnavKucheriya/CS3_CRHS/tree/main/Java_NumberSystems 
+Number System labs -> https://github.com/ArnavKucheriya/CS3_CRHS/tree/main/Java_NumberSystems/src 
 
-Recursions labs -> https://github.com/ArnavKucheriya/CS3_CRHS/tree/main/Java_Recursions 
+Recursions labs -> https://github.com/ArnavKucheriya/CS3_CRHS/tree/main/Java_Recursions/src 
 
-Sets labs -> https://github.com/ArnavKucheriya/CS3_CRHS/tree/main/Java_Sets 
+Sets labs -> https://github.com/ArnavKucheriya/CS3_CRHS/tree/main/Java_Sets/src 
 
-Stacks labs -> https://github.com/ArnavKucheriya/CS3_CRHS/tree/main/Java_Stacks 
+Stacks labs -> https://github.com/ArnavKucheriya/CS3_CRHS/tree/main/Java_Stacks/src 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
