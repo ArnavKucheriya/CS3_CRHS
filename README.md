@@ -3,8 +3,6 @@ Repository for code from Computer Science 3 class in Cypress Ranch HS, Cypress T
 The Code is written completely in Java. 
 Some of the projects may be incomplete, or unoptimized.
 
-Although the code and the repository is MIT licence, do not turn this code as yours, it will be flagged. Don't cheat, try to learn from the code and optimise it yourself.
-
 Here is the Maps for the Projects:
 (Click the Name to go to the **src** directly)
 
