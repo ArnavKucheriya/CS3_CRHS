@@ -13,16 +13,25 @@ Here is the Maps for the Projects:
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Projects
 
->[Assassin Project](https://github.com/ArnavKucheriya/CS3_CRHS/tree/main/Assassin/src) 
->[Evil Hangman Project](https://github.com/ArnavKucheriya/CS3_CRHS/tree/main/EvilHangman/src) 
->[Fractals Project](https://github.com/ArnavKucheriya/CS3_CRHS/tree/main/Fractals/src)
->[Grammar Project](https://github.com/ArnavKucheriya/CS3_CRHS/tree/main/Grammar%20Project/src) 
->[Guitar Hero Project](https://github.com/ArnavKucheriya/CS3_CRHS/tree/main/GuitarHero/src)
->[Stacks Image Enhancer Project](https://github.com/ArnavKucheriya/CS3_CRHS/tree/main/Stack_Image_Enhancer/src) 
->[LiteraryWorks Project](https://github.com/ArnavKucheriya/CS3_CRHS/tree/main/LiteraryWorks/src) 
->[Percolation (Princeton)](https://github.com/ArnavKucheriya/CS3_CRHS/tree/main/Percolation/src)
->[Graphs (UCSD)](https://github.com/ArnavKucheriya/CS3_CRHS/tree/main/UCSD_Graphs/src)
->[Primms_Connecting Points](https://github.com/ArnavKucheriya/CS3_CRHS/tree/main/Prims_ConnectingPoints/src)
+[Assassin Project](https://github.com/ArnavKucheriya/CS3_CRHS/tree/main/Assassin/src) 
+
+[Evil Hangman Project](https://github.com/ArnavKucheriya/CS3_CRHS/tree/main/EvilHangman/src) 
+
+[Fractals Project](https://github.com/ArnavKucheriya/CS3_CRHS/tree/main/Fractals/src)
+
+[Grammar Project](https://github.com/ArnavKucheriya/CS3_CRHS/tree/main/Grammar%20Project/src) 
+
+[Guitar Hero Project](https://github.com/ArnavKucheriya/CS3_CRHS/tree/main/GuitarHero/src)
+
+[Stacks Image Enhancer Project](https://github.com/ArnavKucheriya/CS3_CRHS/tree/main/Stack_Image_Enhancer/src) 
+
+[LiteraryWorks Project](https://github.com/ArnavKucheriya/CS3_CRHS/tree/main/LiteraryWorks/src) 
+
+[Percolation (Princeton)](https://github.com/ArnavKucheriya/CS3_CRHS/tree/main/Percolation/src)
+
+[Graphs (UCSD)](https://github.com/ArnavKucheriya/CS3_CRHS/tree/main/UCSD_Graphs/src)
+
+[Primms_Connecting Points](https://github.com/ArnavKucheriya/CS3_CRHS/tree/main/Prims_ConnectingPoints/src)
  
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
  # Labs
