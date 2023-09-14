@@ -3,6 +3,8 @@ Repository for code from Computer Science 3 class in Cypress Ranch HS, Cypress T
 The Code is written completely in Java. 
 Some of the projects may be incomplete, or unoptimized.
 
+Java (ADOPTIUM - Eclipse Temurin : JDK 17.0.8.1)
+
 Here is the Maps for the Projects:
 (Click the Name to go to the **src** directly)
 
